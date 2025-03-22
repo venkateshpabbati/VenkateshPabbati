@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**venkateshpabbati/VenkateshPabbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI/ML projects, Generative AI, and full-stack development**  
+- 🌱 I’m currently learning **advanced AI/ML techniques, AWS, and productionizing ML models**  
+- 👯 I’m looking to collaborate on **end-to-end AI/ML solutions, data science projects, and Generative AI applications**  
+- 🤔 I’m looking for help with **optimizing ML models for production and scalable AI architectures**  
+- 💬 Ask me about **Machine Learning, AI, Generative AI, Data Science, AWS, Java Full Stack Development, and Software Engineering**  
+- 📫 How to reach me: **[venkateshpabbati@gmail.com/LinkedIn/GitHub/Fiverr](#)**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I transitioned from a sales leadership role to a full-time AI/ML and software engineering career!**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to customize it further or add links? 🚀
